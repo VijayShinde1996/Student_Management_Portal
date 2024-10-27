@@ -1,3 +1,25 @@
+# Student Management Portal
+## Medium Blog Post
+For a detailed walkthrough of the development process, check out my Medium blog post: [Building a Student Management Portal with React.js: A Step-by-Step Guide](https://medium.com/@shindevijay595/building-a-student-management-portal-with-react-js-a-step-by-step-guide-a149c08ebe37)
+
+## Overview
+
+The Student Management Portal is a web application built using React.js that enables users to manage student data effectively. It includes features such as adding, editing, deleting, and filtering student records, as well as pagination for a smooth user experience.
+
+## Features
+
+- **Student Registration**: Add new student records with name, age, and class.
+- **Data Management**: Edit and delete existing student records.
+- **Search and Filter**: Easily search for students and filter results by class and age.
+- **Pagination**: Navigate through student records efficiently.
+- **User-Friendly Interface**: A clean and responsive UI built with CSS.
+
+## Technologies Used
+
+- **Frontend**: React.js, CSS
+- **Data Storage**: JSON file for student data
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +90,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Medium Blog Post
+For a detailed walkthrough of the development process, check out my Medium blog post: Building a Student Management Portal with React.js: A Step-by-Step Guide
